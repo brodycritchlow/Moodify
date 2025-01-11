@@ -1,6 +1,7 @@
 # Moodify 🎵  
 Moodify is an API that generates personalized Spotify playlists tailored to your mood. Instead of relying on Spotify's recommendation engine, Moodify uses custom machine learning models hosted on GitHub to analyze mood inputs and curate the perfect set of tracks.  
 
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/brodycritchlow/Moodify)
 ---
 
 ## Features  
